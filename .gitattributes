@@ -1,0 +1,4 @@
+*.json linguist-detectable=true
+*.looker linguist-detectable=true
+*.dashboard linguist-detectable=true
+*.python linguist-detectable=true
