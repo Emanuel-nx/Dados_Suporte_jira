@@ -175,5 +175,4 @@ Sinta-se à vontade para contribuir! Para isso:
 ## 📜 Licença
 Este projeto está licenciado sob a **MIT License**. Sinta-se livre para usá-lo e modificá-lo conforme necessário!
 
-📩 **Dúvidas ou sugestões?** Entre em contato! 😊
 
