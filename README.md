@@ -130,30 +130,6 @@ Aqui os dados são **inseridos em uma planilha do Google**, permitindo integraç
 
 ---
 
-## ⏰ Automação da Execução
-Para garantir a atualização diária dos dados, você pode usar o **Task Scheduler (Windows)** ou **Crontab (Linux/Mac)**.
-
-### Windows (Task Scheduler)
-1. Abra o **Agendador de Tarefas**
-2. Crie uma nova tarefa e selecione "Executar um programa"
-3. Configure para executar o script Python diariamente:
-```bash
-python caminho/do/seu/script.py
-```
-
-### Linux/Mac (Crontab)
-Edite o crontab:
-```bash
-crontab -e
-```
-Adicione a linha:
-```bash
-0 6 * * * /usr/bin/python3 /caminho/do/seu/script.py
-```
-Isso executará o script todo dia às **06:00 da manhã**.
-
----
-
 ## 📚 Glossário
 - **Jira API**: Interface que permite interação com os dados do Jira.
 - **Looker Studio**: Plataforma do Google para criação de dashboards interativos.
@@ -174,5 +150,9 @@ Sinta-se à vontade para contribuir! Para isso:
 
 ## 📜 Licença
 Este projeto está licenciado sob a **MIT License**. Sinta-se livre para usá-lo e modificá-lo conforme necessário!
+
+## Resultado final do Dash:
+![image](https://github.com/user-attachments/assets/c129c95d-4af6-4722-bc83-5386c9cd2747)
+
 
 
