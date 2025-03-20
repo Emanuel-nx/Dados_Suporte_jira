@@ -152,7 +152,8 @@ Sinta-se à vontade para contribuir! Para isso:
 Este projeto está licenciado sob a **MIT License**. Sinta-se livre para usá-lo e modificá-lo conforme necessário!
 
 ## Resultado final do Dash:
-![image](https://github.com/user-attachments/assets/c129c95d-4af6-4722-bc83-5386c9cd2747)
+![image](https://github.com/user-attachments/assets/0574a4aa-77a5-49e0-88a6-cbfaf7a79d97)
+
 
 
 
