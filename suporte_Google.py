@@ -70,7 +70,7 @@ for issue in issues:
         "TEMPO GASTO": fields.timespent if fields.timespent else 0,
         "INICIO_DESENVOLVIMENTO": fields.customfield_10137 if hasattr(fields, 'customfield_10137') else "",
         "FINAL_DESENVOLVIMENTO": fields.customfield_10138 if hasattr(fields, 'customfield_10138') else "",
-        "TIME_TO_RESOLUTION": fields.customfield_10085 if hasattr(fields, 'customfield_10085') else "",
+        "TEMPO_ATE_RESOLUCAO": fields.customfield_10773 if hasattr(fields, 'customfield_10773') else "",
         
     })
 
